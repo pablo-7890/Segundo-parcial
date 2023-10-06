@@ -1,9 +1,9 @@
 # Parcial Segundo Corte Desarrollo Web 🚀
 
 
-Nombre completo estudiante :
+Nombre completo estudiante : Pablo Andrés Lugo ramírez
 
-Codigo :
+Codigo :0000219665
 
 **Descripción del Problema:**
 
